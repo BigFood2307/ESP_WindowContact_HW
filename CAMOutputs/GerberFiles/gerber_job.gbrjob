@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-22T00:45:46Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "contact"
+        },
+        "Owner": "Lukas Pindl <lukas.pindl@gmx.net>",
+        "Size": {
+            "X": 27.61,
+            "Y": 39.36
+        }
+    }
+}
